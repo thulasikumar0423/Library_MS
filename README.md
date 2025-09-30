@@ -34,7 +34,7 @@ LibraryManagementSystem.java # Main file (contains all classes and menu)
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/thulasikumar0423/Library_MS.git
 Open the project in VS Code or any Java IDE.
 
 Compile the program:
